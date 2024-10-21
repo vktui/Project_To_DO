@@ -1,0 +1,5 @@
+- Take Access of the bitbucket files from Naresh sir.
+- Clone the repository from SSH (loki.go)
+- Clone the repository which Naresh sir has shared in the Dev Group chat.
+- Create the code for OEE calculations in loki in your VS Code terminal only and then do the same for Performance (allotted to me). According to that, create schemas in PostgreSQL and TimeScaleDB and connect it with Gorm and create APIs for that(GET, POST, PATCH for master tables only).
+- If you still have the time, make the visualization charts on streamlit connected to the same database, ask for the specifications to Hemant sir about which chart to create for what user.
